@@ -1,0 +1,33 @@
+[
+    {
+        "trainings":[
+            "Pre Acceleration boot-Camp",
+            "Entrepreneurship Camp",
+            "Freelancing boot-Camp",
+            "Career Planning & Job Search Workshop",
+            "CV & interview skills - entry level",
+            "Soft skills camp",
+            "Ideation Camp",
+            "Freelancing for Marketers",
+            "Start your freelance Career in Creative Industry",
+            "Career Planning",
+            "Making Prototype",
+            "How to get fund for startup in Egypt"
+        ]
+    },
+    {
+        "id":1,
+        "name":"ideation",
+        "description":"The process of generating, developing, and communicating new ideas",
+        "skills":[" ازاي نوجد المشكلة اللي تستحق الحل " , "مهارات التواصل بين الفريق" ,"مهارات التفكير بأستخدام الالعاب والانشطة" , "مهارات تخطيط السوق" , "إدارة الوقت والعمل في ظروف مختلفة" , "جمع البيانات وتحليلها" , " نقد التفكير" , " الذكاء العاطفي" , "مهارات العرض"],
+        "trainings":[
+            { "trainer":"Eng/ wael sabry" , "post":"https://www.facebook.com/CreativaHubSohag/posts/pfbid0286fFCE9Nbu3EeFyJBf2JN6DE9Ckuw6tVYvTi17X7iB2vuUgEGHkBqC7ahAUFvfR8l" },
+            { "trainer":"Eng/ nehal maghraby" , "post":"https://www.facebook"}
+        ]
+    },
+    {
+        "id":2,
+        "name":"technical"
+    }
+    
+]
